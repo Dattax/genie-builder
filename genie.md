@@ -1,5 +1,7 @@
 # Genie Apps Competition for JuliaCon 2024
 
+![genie_app_comp](https://github.com/Dattax/genie-builder/assets/1408846/a3262099-29a4-4384-849e-aae25c896221)
+
 ### ATTENTION ALL JULIA USERS! SHOWCASE YOUR WORK AND WIN CASH PRIZES!
 
 Are you a Julia user with a compelling technical story to share with the world? 
